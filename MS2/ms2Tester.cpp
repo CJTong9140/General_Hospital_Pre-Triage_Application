@@ -1,7 +1,6 @@
 // IOAble Tester:
 // Version: 1.0
 // Date: 2021-3-16
-// Author: Fardad Soleimanloo
 // Description:
 // This file tests the IOAble Module of your project
 /////////////////////////////////////////////

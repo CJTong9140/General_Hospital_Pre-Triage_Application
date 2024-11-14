@@ -1,7 +1,6 @@
 // Menu tester:
 // Version: 1.0
 // Date: 2021-03-16
-// Author: Fardad Soleimanloo
 // Description:
 // This file tests the Menu module of the project
 /////////////////////////////////////////////

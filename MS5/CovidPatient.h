@@ -1,5 +1,5 @@
 /* Citation and Sources...
-Final Project Milestone
+General Hospital Pre-Triage Application
 Module: CovidPatient (Concrete class, derived class from Patient)
 Filename: CovidPatient.h
 Version 1.0

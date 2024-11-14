@@ -2,7 +2,6 @@
 // file: TPTester.cpp
 // Version: 1.0
 // Date: 2021-03-26
-// Author: Fardad 
 // Description:
 // This file tests the TriagePatient Module of your project
 /////////////////////////////////////////////

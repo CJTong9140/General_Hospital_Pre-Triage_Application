@@ -1,5 +1,5 @@
 /* Citation and Sources...
-Final Project Milestone
+General Hospital Pre-Triage Application
 Module: Ticket (Derived class from IOAble)
 Filename: Ticket.cpp
 Version 1.0

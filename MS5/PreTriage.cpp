@@ -1,5 +1,5 @@
 /* Citation and Sources...
-Final Project Milestone
+General Hospital Pre-Triage Application
 Module: PreTriage
 Filename: PreTriage.cpp
 Version 1.0

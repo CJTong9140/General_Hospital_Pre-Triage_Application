@@ -1,7 +1,6 @@
 // Patient Tester:
 // Version: 1.0 
 // Date: 2021-03-22
-// Author: Fardad 
 // Description:
 // This file tests the Patient Module of your project
 /////////////////////////////////////////////

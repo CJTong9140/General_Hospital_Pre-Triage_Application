@@ -1,7 +1,5 @@
 // ms1 Tester:
 // Version: 1.0
-// Date: 20201-03-03
-// Author: Fardad Soleimanloo
 // Description:
 // This file tests the utils and Time Module of your project
 /////////////////////////////////////////////

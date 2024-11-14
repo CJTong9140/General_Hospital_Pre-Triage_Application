@@ -1,5 +1,5 @@
 /* Citation and Sources...
-Final Project Milestone
+General Hospital Pre-Triage Application
 Module: TriagePatient (Concrete class, derived class from Patient)
 Filename: TriagePatient.cpp
 Version 1.0

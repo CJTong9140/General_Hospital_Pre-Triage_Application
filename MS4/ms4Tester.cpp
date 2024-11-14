@@ -2,7 +2,6 @@
 // file: ms4Tester.cpp
 // Version: 1.0
 // Date: 2021-03-26
-// Author: Fardad 
 // Description:
 // This file tests the CovidPatient and TriagePatient
 // Modules of your project

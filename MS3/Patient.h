@@ -1,5 +1,5 @@
 /* Citation and Sources...
-Final Project Milestone 
+General Hospital Pre-Triage Application
 Module: Patient (Abstract class, derived class from IOAble) 
 Filename: Patient.h
 Version 1.0
