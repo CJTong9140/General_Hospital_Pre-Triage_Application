@@ -16,18 +16,18 @@ Admits the next patient in line, prioritizing based on their ticket type and arr
 Saves and loads patient data to/from files for ensuring continuity and efficient data handling.
 
 ## Core Modules  
-### ***Milestone 1: Utilities and Time Modules***
+### ***Milestone 1 (MS1): Utilities and Time Modules***
 - Time and utils helper modules for input validation, time calculation, and memory-safe handling of user entries. 
 - Dynamic memory allocation for strings without using the C++ string class.
-### ***Milestone 2: Menu and IOAble Interface***
+### ***Milestone 2 (MS2): Menu and IOAble Interface***
 - **Menu**: Dynamic menu system with foolproof input handling.
 - **IOAble**: Interface enforcing standardized I/O methods for derived classes.
-### ***Milestone 3: Patient and Ticket Classes***
+### ***Milestone 3 (MS3): Patient and Ticket Classes***
 - **Patient**: Abstract base class containing patient data with virtual I/O methods.
 - **Ticket**: Manages unique ticket numbers and arrival times.
-### ***Milestone 4: CovidPatient and TriagePatient Modules***
+### ***Milestone 4 (MS4): CovidPatient and TriagePatient Modules***
 - Specialized classes for Covid and Triage patient with unique handling.
-### ***Milestone 5: PreTriage Module***
+### ***Milestone 5 (MS5): PreTriage Module***
 - Manages patient lineups, ticket assignment, and admissions, integrating all modules into a pre-triage workflow.
 
 ## Features
